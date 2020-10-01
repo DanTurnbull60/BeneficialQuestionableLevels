@@ -1,0 +1,18 @@
+body {
+  background-color: orange
+}
+
+h1 {
+  font-size: 70px;
+  text-align: left;
+  font-family: sans-serif
+}
+
+p {
+  color: rgb(90, 58,120);
+  font-size: 40px;
+}
+
+pic {
+  width: 20px;
+  height: 20px;
